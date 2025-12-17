@@ -120,7 +120,8 @@ var PHRASE_LIST = [
     "A puzzle about football (either one).",
     "Logic puzzle in more than 2 dimensions.",
     "Puzzle involves song lyrics.",
-    "Puzzle uses a non-standard list of 26 things."
+    "Puzzle uses a non-standard list of 26 things.",
+    "Puzzle about 6 7"
 ];
 
 // From https://github.com/bryc/code/blob/master/jshash/experimental/cyrb53.js
