@@ -47,7 +47,7 @@ Inspired by the [several](https://www.darthsanddroids.net/bingo/Episode7/) [Star
 
 <script>
 var PHRASE_LIST = [
-            "Puzzle about   6 7",
+            "Puzzle about   6 7  ",
             "Puzzle about italian brainrot.",
             "Puzzle references the Minecraft movie.",
             "The winning team has never won the MIT Mystery Hunt before.",
