@@ -47,10 +47,10 @@ Inspired by the [several](https://www.darthsanddroids.net/bingo/Episode7/) [Star
 
 <script>
 var PHRASE_LIST = [
-            "Puzzle about 6 7",
-            "Puzzle about italian brainrot",
-            "Puzzle references the Minecraft movie",
-            "The winning team has never won the MIT Mystery Hunt before",
+            "Puzzle about   6 7",
+            "Puzzle about italian brainrot.",
+            "Puzzle references the Minecraft movie.",
+            "The winning team has never won the MIT Mystery Hunt before.",
             "Answer to the puzzle appears in the title.", 
             "Puzzle that references Star Trek.", 
             "The winning team has < 60 members.", 
@@ -68,7 +68,7 @@ var PHRASE_LIST = [
             "Hunt is won Sunday, MIT time.", 
             "A logic puzzle with more than one solution.",
             "Metapuzzle solved with <= half the answers.",
-            "Tech issues at Hunt start :(",
+            "Tech issues at Hunt start ☹️",
             "The word \"NES\" is on a puzzle page.",
             "Logic puzzle in more than 2 dimensions.",
 ];
